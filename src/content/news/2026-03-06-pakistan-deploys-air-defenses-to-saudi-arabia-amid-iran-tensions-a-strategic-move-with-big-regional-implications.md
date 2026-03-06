@@ -133,7 +133,5 @@ Pakistan shares a border with Iran and maintains diplomatic relations with Tehra
 
 ### [Middle East on the Brink: Israel Hezbollah Clash Signals a Dangerous New Chapter](https://trickytube.com/news/2026-03-03-middle-east-on-the-brink-israel-hezbollah-clash-signals-a-dangerous-new-chapter/)
 
-### [Strait of Hormuz Crisis Explained: Iran’s Threat Could Trigger a Global Oil Shock and Hit India’s Economy
-
-](https://trickytube.com/news/2026-03-06-strait-of-hormuz-crisis-explained-irans-threat-could-trigger-a-global-oil-shock-and-hit-indias-economy/)[India Issues NOTAM Near Pakistan Border Why This Airspace Warning Has Put Pakistan on High Alert
+[
 ](https://trickytube.com/news/2026-03-06-india-issues-notam-near-pakistan-border-why-this-airspace-warning-has-put-pakistan-on-high-alert/)
