@@ -10,7 +10,7 @@ category: international
 publishDate: 2026-03-08T17:52:00.000+05:30
 image: /src/assets/news/us_minutemen_iii_doomsday_missile_test_iran_tensions.jpeg
 ---
-TrickyTube’s Quick Summary
+## TrickyTube’s Quick Summary
 
 • The US successfully test-launched the Minuteman III ICBM from California to the Marshall Islands.
 
@@ -25,8 +25,6 @@ TrickyTube’s Quick Summary
 • The test occurred amid rising Middle East tensions involving Iran.
 
 • The US plans to replace Minuteman III with the Sentinel missile system by the 2030s.
-
-
 
 ### US Tests “Doomsday Missile” Amid Iran Tensions – A Strategic Warning to the World?
 
