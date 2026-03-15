@@ -1,3 +1,8 @@
+---
+layout: "@/layouts/ContentLayout.astro"
+title: "Disclaimer"
+---
+
 # Disclaimer
 
 The information provided on Tricky Tube is published in good faith and for general informational purposes only.

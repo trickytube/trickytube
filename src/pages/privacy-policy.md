@@ -1,3 +1,8 @@
+---
+layout: "@/layouts/ContentLayout.astro"
+title: "Privacy Policy"
+---
+
 # Privacy policy- Tricky Tube
 
 At Tricky Tube, your privacy is important to us. This Privacy Policy document explains what information we collect, how we use it, and how we protect your data when you visit our website.

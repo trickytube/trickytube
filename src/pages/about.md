@@ -1,3 +1,7 @@
+---
+layout: "@/layouts/ContentLayout.astro"
+title: About
+---
 # About Us: Tricky Tube
 
 Welcome to Tricky Tube, a digital space built for readers who want to understand what’s really happening in the world-beyond the noise, beyond the clickbait.

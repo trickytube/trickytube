@@ -1,3 +1,8 @@
+---
+layout: "@/layouts/ContentLayout.astro"
+title: "TOS"
+---
+
 # Terms of service-Tricky Tube
 
 By accessing and using Tricky Tube, you agree to the following terms and conditions. Please read them carefully.

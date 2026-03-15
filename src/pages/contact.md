@@ -1,3 +1,8 @@
+---
+layout: "@/layouts/ContentLayout.astro"
+title: "Contact us"
+---
+
 # Contact Us- Tricky Tube
 
 We believe good journalism starts with open communication.
