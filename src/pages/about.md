@@ -1,5 +1,5 @@
 ---
-layout: "@/layouts/ContentLayout.astro"
+layout: "@/layouts/markdownLayout.astro"
 title: About
 ---
 
